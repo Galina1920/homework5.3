@@ -67,7 +67,7 @@ public class StudentRegistrationForm {
 //    public WebElement getLastName() {
 //        return lastName;
 //    }
-//
+
 //    public WebElement getUserEmail() {
 //        return userEmail;
 //    }
